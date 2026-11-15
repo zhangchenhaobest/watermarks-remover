@@ -1,3 +1,29 @@
+# watermarks-remover
+
+[English](#english) | [简体中文](#简体中文)
+
+---
+
+## English
+
+A privacy-first app that strips AI watermarks from content you own.
+
+> This repository is a fork. For full documentation, see the upstream repository.
+
+[简体中文](#简体中文)
+
+---
+
+## 简体中文
+
+隐私优先工具，去除自有内容上的 AI 水印。
+
+> 本项目为 fork，详细文档请以原仓库为准。
+
+[English](#english)
+
+---
+
 ```
 _ _ _ ____ ___ ____ ____ _  _ ____ ____ _  _ ____    ____ ____ _  _ ____ _  _ ____ ____
 | | | |__|  |  |___ |__/ |\/| |__| |__/ |_/  [__  __ |__/ |___ |\/| |  | |  | |___ |__/
